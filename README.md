@@ -13,21 +13,17 @@ section .data msg db 'Hello, World!', 0 section .text global _start _start: mov 
 
 - **2. Ada**
 
-ada
+```ada
+with Ada.Text_IO; procedure Hello is begin Ada.Text_IO.Put_Line("Hello, World!"); end Hello;
+```
 
-Copiar código
+- **3. ALGOL 68**
 
-with Ada.Text_IO; procedure Hello is begin Ada.Text_IO.Put_Line("Hello, World!"); end Hello; 
+```algol68
+print("Hello, World!")
+```
 
-3. ALGOL 68
-
-algol68
-
-Copiar código
-
-print("Hello, World!") 
-
-4. APL
+- **4. APL**
 
 apl
 
