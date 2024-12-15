@@ -39,10 +39,10 @@ begin
 end Hello;
 ```
 
-## ALGOL 68
+## ALGOL
 
-```a68
-print("Hello, World!")
+```alg
+BEGIN DISPLAY("Hello World!") END.
 ```
 
 ## APL
