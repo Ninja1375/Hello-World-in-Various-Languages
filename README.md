@@ -1,5 +1,7 @@
 # Hello-World-in-Various-Languages
 
+This repository contains examples of the classic **Hello, World!** in different languages
+
 ## In alphabetical order
 
 ### Letter Ah
