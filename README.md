@@ -28,18 +28,15 @@ _start:
     syscall
 ```
 
-
-
-- **1. Assembly (x86-64 NASM)**
-
-```asm
-section .data msg db 'Hello, World!', 0 section .text global _start _start: mov rax, 1 ; syscall: write mov rdi, 1 ; file descriptor: stdout mov rsi, msg ; message to write mov rdx, 13 ; message length syscall mov rax, 60 ; syscall: exit xor rdi, rdi ; exit code 0 syscall
-```
-
 - **2. Ada**
 
 ```adb
-with Ada.Text_IO; procedure Hello is begin Ada.Text_IO.Put_Line("Hello, World!"); end Hello;
+with Ada.Text_IO;
+
+procedure Hello is
+begin
+    Ada.Text_IO.Put_Line("Hello, World!");
+end Hello;
 ```
 
 - **3. ALGOL 68**
