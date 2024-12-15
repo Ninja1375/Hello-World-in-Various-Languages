@@ -25,67 +25,51 @@ print("Hello, World!")
 
 - **4. APL**
 
-apl
+```apl
+'Hello, World!'
+```
 
-Copiar código
+- **5. ActionScript**
 
-'Hello, World!' 
+```actionscript
+trace("Hello, World!");
+```
 
-5. ActionScript
+- **6. AppleScript**
 
-actionscript
+```applescript
+display dialog "Hello, World!"
+```
 
-Copiar código
+- **7. AWK**
 
-trace("Hello, World!"); 
+```awk
+BEGIN { print "Hello, World!" }
+```
 
-6. AppleScript
+- **8. AutoHotkey**
 
-applescript
+```ahk
+MsgBox, Hello, World!
+```
 
-Copiar código
+- **9. AutoIt**
 
-display dialog "Hello, World!" 
+```autoit
+MsgBox(0, "Title", "Hello, World!")
+```
 
-7. AWK
+- **10. Arc**
 
-awk
-
-Copiar código
-
-BEGIN { print "Hello, World!" } 
-
-8. AutoHotkey
-
-ahk
-
-Copiar código
-
-MsgBox, Hello, World! 
-
-9. AutoIt
-
-autoit
-
-Copiar código
-
-MsgBox(0, "Title", "Hello, World!") 
-
-10. Arc
-
-arc
-
-Copiar código
-
+```arc
 (prn "Hello, World!") 
+```
 
-11. AspectJ
+- **11. AspectJ**
 
-java
-
-Copiar código
-
-public aspect HelloWorldAspect { before(): execution(* main(..)) { System.out.println("Hello, World!"); } } 
+```java
+public aspect HelloWorldAspect { before(): execution(* main(..)) { System.out.println("Hello, World!"); } }
+```
 
 Se precisar de ajuda com o repositório ou outros exemplos, é só avisar!
 
