@@ -28,7 +28,7 @@ _start:
     syscall
 ```
 
-- **2. Ada**
+## Ada
 
 ```adb
 with Ada.Text_IO;
@@ -39,55 +39,55 @@ begin
 end Hello;
 ```
 
-- **3. ALGOL 68**
+## ALGOL 68
 
 ```a68
 print("Hello, World!")
 ```
 
-- **4. APL**
+## APL
 
 ```apl
 'Hello, World!'
 ```
 
-- **5. ActionScript**
+## ActionScript
 
 ```as
 trace("Hello, World!");
 ```
 
-- **6. AppleScript**
+## AppleScript
 
 ```applescript
 display dialog "Hello, World!"
 ```
 
-- **7. AWK**
+## AWK
 
 ```awk
 BEGIN { print "Hello, World!" }
 ```
 
-- **8. AutoHotkey**
+##AutoHotkey
 
 ```ahk
 MsgBox, Hello, World!
 ```
 
-- **9. AutoIt**
+## AutoIt
 
 ```au3
 MsgBox(0, "Title", "Hello, World!")
 ```
 
-- **10. Arc**
+## Arc
 
 ```arc
 (prn "Hello, World!") 
 ```
 
-- **11. AspectJ**
+## AspectJ
 
 ```aj
 public aspect HelloWorldAspect {
@@ -167,5 +167,6 @@ Extensão: .aj
 Exemplo: hello.aj
 
 **Letter B**
+
 ---
 Continua...
