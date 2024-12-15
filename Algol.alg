@@ -1,3 +1,1 @@
-begin
-    print("Hello, World!")
-end.
+BEGIN DISPLAY("Hello World!") END.
