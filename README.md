@@ -13,13 +13,13 @@ section .data msg db 'Hello, World!', 0 section .text global _start _start: mov 
 
 - **2. Ada**
 
-```ada
+```adb
 with Ada.Text_IO; procedure Hello is begin Ada.Text_IO.Put_Line("Hello, World!"); end Hello;
 ```
 
 - **3. ALGOL 68**
 
-```algol68
+```a68
 print("Hello, World!")
 ```
 
@@ -31,7 +31,7 @@ print("Hello, World!")
 
 - **5. ActionScript**
 
-```actionscript
+```as
 trace("Hello, World!");
 ```
 
@@ -55,7 +55,7 @@ MsgBox, Hello, World!
 
 - **9. AutoIt**
 
-```autoit
+```au3
 MsgBox(0, "Title", "Hello, World!")
 ```
 
@@ -67,7 +67,7 @@ MsgBox(0, "Title", "Hello, World!")
 
 - **11. AspectJ**
 
-```java
+```aj
 public aspect HelloWorldAspect { before(): execution(* main(..)) { System.out.println("Hello, World!"); } }
 ```
 
