@@ -69,7 +69,7 @@ display dialog "Hello, World!"
 BEGIN { print "Hello, World!" }
 ```
 
-##AutoHotkey
+## AutoHotkey
 
 ```ahk
 MsgBox, Hello, World!
