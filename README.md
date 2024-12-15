@@ -5,12 +5,8 @@ This repository contains examples of the classic **Hello, World!** in different 
 ***In alphabetical order***
 
 **Letter A**
+
 ---
-
-
-# Hello, World! em Linguagens que Começam com a Letra A
-
-Este repositório contém exemplos do clássico **Hello, World!** em diversas linguagens de programação que começam com a letra **A**.
 
 ## Assembly
 ```asm
@@ -30,6 +26,7 @@ _start:
     mov rax, 60         ; syscall: exit
     xor rdi, rdi        ; exit code 0
     syscall
+```
 
 
 
