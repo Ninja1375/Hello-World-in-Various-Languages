@@ -90,7 +90,11 @@ MsgBox(0, "Title", "Hello, World!")
 - **11. AspectJ**
 
 ```aj
-public aspect HelloWorldAspect { before(): execution(* main(..)) { System.out.println("Hello, World!"); } }
+public aspect HelloWorldAspect {
+    before(): execution(* main(..)) {
+        System.out.println("Hello, World!");
+    }
+}
 ```
 
 Se precisar de ajuda com o repositório ou outros exemplos, é só avisar!
