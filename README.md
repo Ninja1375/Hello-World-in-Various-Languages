@@ -4,8 +4,6 @@ This repository contains examples of the classic **Hello, World!** in different 
 
 ***In alphabetical order***
 
-<br>
-
 ---
 >**Letter A**
 
