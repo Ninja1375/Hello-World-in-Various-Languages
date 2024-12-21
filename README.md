@@ -260,16 +260,7 @@ end
 ---
 >**Letter C**
 
-Continua...
-
-
-# Hello, World! em Linguagens que Começam com a Letra C
-
-Aqui está uma lista das linguagens que começam com a letra **C**, seus respectivos códigos de "Hello, World!" e extensões de arquivo.
-
----
-
-## C
+## 1. C
 **Extensão**: `.c`
 ```c
 #include <stdio.h>
@@ -279,9 +270,7 @@ int main() {
 }
 ```
 
----
-
-## C++
+## 2. C++
 **Extensão**: `.cpp`, `.cc`, `.cxx`, `.h` (para cabeçalhos)
 ```cpp
 #include <iostream>
@@ -291,9 +280,7 @@ int main() {
 }
 ```
 
----
-
-## C#
+## 3. C#
 **Extensão**: `.cs`
 ```csharp
 using System;
@@ -304,17 +291,13 @@ class Program {
 }
 ```
 
----
-
-## Clojure
+## 4. Clojure
 **Extensão**: `.clj`, `.cljs`, `.cljc`
 ```clojure
 (println "Hello, World!")
 ```
 
----
-
-## COBOL
+## 5. COBOL
 **Extensão**: `.cbl`, `.cob`, `.cpy` (para cópias)
 ```cobol
 IDENTIFICATION DIVISION.
@@ -324,9 +307,7 @@ PROCEDURE DIVISION.
     STOP RUN.
 ```
 
----
-
-## ColdFusion
+## 6. ColdFusion
 **Extensão**: `.cfm`, `.cfc`
 ```cfml
 <cfoutput>
@@ -334,17 +315,13 @@ Hello, World!
 </cfoutput>
 ```
 
----
-
-## Crystal
+## 7. Crystal
 **Extensão**: `.cr`
 ```crystal
 puts "Hello, World!"
 ```
 
----
-
-## CHILL
+## 8. CHILL
 **Extensão**: `.ch` ou `.chl`
 ```chill
 BEGIN
@@ -352,9 +329,7 @@ BEGIN
 END;
 ```
 
----
-
-## Common Lisp
+## 9. Common Lisp
 **Extensão**: `.lisp`, `.cl`, `.lsp`
 ```lisp
 (format t "Hello, World!~%")
@@ -362,11 +337,15 @@ END;
 
 ---
 
-## CPL (Combined Programming Language)
+## 10. CPL (Combined Programming Language)
 **Extensão**: `.cpl` ou `.cplang`
 ```cpl
 HELLO: 
     PRINT("Hello, World!")
 ```
 
+<br>
+
+>**Letter D**
 ---
+Continua...
