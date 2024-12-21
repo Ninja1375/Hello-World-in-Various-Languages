@@ -7,7 +7,7 @@ This repository contains examples of the classic **Hello, World!** in different 
 >**Letter A**
 ---
 ## 1. Assembly
-**Extensão** `.asm`
+**Extensão:** `.asm`
 ```assembly
 section .data
     msg db 'Hello, World!', 0
@@ -28,8 +28,8 @@ _start:
 ```
 
 ## 2. Ada
-
-```adb
+**Extensão:** `.adb`
+```ada
 with Ada.Text_IO;
 
 procedure Hello is
@@ -38,57 +38,57 @@ begin
 end Hello;
 ```
 
-## ALGOL
-
-```alg
+## 3. ALGOL
+**Extensão:** `.alg`
+```algol
 BEGIN DISPLAY("Hello World!") END.
 ```
 
-## APL
-
+## 4. APL
+**Extensão:** `.apl`
 ```apl
 'Hello, World!'
 ```
 
-## ActionScript
-
-```as
+## 5. ActionScript
+**Extensão:** `.as`
+```actionscript
 trace("Hello, World!");
 ```
 
-## AppleScript
-
+## 6. AppleScript
+**Extensão:** `.applescript`
 ```applescript
 display dialog "Hello, World!"
 ```
 
-## AWK
-
+## 7. AWK
+**Extensão:** `.awk`
 ```awk
 BEGIN { print "Hello, World!" }
 ```
 
-## AutoHotkey
-
-```ahk
+## 8. AutoHotkey
+**Extensão:** `.ahk`
+```autohotkey
 MsgBox, Hello, World!
 ```
 
-## AutoIt
-
-```au3
+## 9. AutoIt
+**Extensão:** `.au3`
+```autoit
 MsgBox(0, "Title", "Hello, World!")
 ```
 
-## Arc
-
+## 10. Arc
+**Extensão:** `.arc`
 ```arc
 (prn "Hello, World!") 
 ```
 
-## AspectJ
-
-```aj
+## 11. AspectJ
+**Extensão:** `.aj`
+```aspectj
 public aspect HelloWorldAspect {
     before(): execution(* main(..)) {
         System.out.println("Hello, World!");
@@ -96,16 +96,16 @@ public aspect HelloWorldAspect {
 }
 ```
 
-## ABAP 
-
+## 12. ABAP 
+**Extensão:** `.abap`
 ```abap
 REPORT zhello_world.
 
 WRITE 'Hello, World!'.
 ```
 
-## Agda 
-
+## 13. Agda 
+**Extensão:** `.agda`
 ```agda
 module HelloWorld where
 
@@ -115,31 +115,32 @@ main : IO _
 main = putStrLn "Hello, World!"
 ```
 
-## Amiga E
-
-```e
+## 14. Amiga E
+**Extensão:** `.e`
+```amigae
 PROC main()
     PRINT "Hello, World!"
 ENDPROC
 ```
 
-## AssemblyScript
-
-```ts
+## 15. AssemblyScript
+**Extensão:** `.ts`
+```assemblyscript`
 export function hello(): void {
   console.log("Hello, World!");
 }
 ```
 
-## Asymptote 
+## 16. Asymptote
 
-```asy
+**Extensão:** `.asy`
+```asymptote
 draw("Hello, World!");
 ```
 
 ## Arduino 
-
-```ino
+**Extensão:** `.ino`
+```arduino
 void setup() {
   Serial.begin(9600);
   Serial.println("Hello, World!");
