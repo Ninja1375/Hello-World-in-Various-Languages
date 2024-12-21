@@ -232,6 +232,12 @@ LET start() = VALOF {
 }
 ```
 
+## 11. BatchScript (uma variação do Batch)
+**Extensão:** `.bat`, `.cmd`
+```batch
+@echo off echo Hello, World!
+```
+
 ## 12. BashDB
 
 **Extensão:** `.sh`
