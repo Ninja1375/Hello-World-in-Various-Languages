@@ -4,12 +4,11 @@ This repository contains examples of the classic **Hello, World!** in different 
 
 ***In alphabetical order***
 
-**Letter A**
-
+>**Letter A**
 ---
-
-## Assembly
-```asm
+## 1. Assembly
+**Extensão** `.asm`
+```assembly
 section .data
     msg db 'Hello, World!', 0
 
@@ -28,7 +27,7 @@ _start:
     syscall
 ```
 
-## Ada
+## 2. Ada
 
 ```adb
 with Ada.Text_IO;
