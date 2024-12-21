@@ -132,6 +132,12 @@ export function hello(): void {
 }
 ```
 
+## Asymptote 
+
+```asymptote
+draw("Hello, World!");
+```
+
 **Letter B**
 
 ---
