@@ -138,6 +138,19 @@ export function hello(): void {
 draw("Hello, World!");
 ```
 
+## Arduino 
+
+```ino
+void setup() {
+  Serial.begin(9600);
+  Serial.println("Hello, World!");
+}
+
+void loop() {
+  // Nothing to do here
+}
+```
+
 **Letter B**
 
 ---
