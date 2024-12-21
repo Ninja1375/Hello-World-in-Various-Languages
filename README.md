@@ -116,6 +116,14 @@ main : IO _
 main = putStrLn "Hello, World!"
 ```
 
+## Amiga E
+
+```e
+PROC main()
+    PRINT "Hello, World!"
+ENDPROC
+```
+
 **Letter B**
 
 ---
