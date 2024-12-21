@@ -105,6 +105,17 @@ REPORT zhello_world.
 WRITE 'Hello, World!'.
 ```
 
+## Agda 
+
+```agda
+module HelloWorld where
+
+open import IO
+
+main : IO _
+main = putStrLn "Hello, World!"
+```
+
 **Letter B**
 
 ---
