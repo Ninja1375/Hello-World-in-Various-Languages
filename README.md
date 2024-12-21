@@ -232,7 +232,16 @@ LET start() = VALOF {
 }
 ```
 
-## 11. Blue
+## 12. BashDB
+
+**Extensão:** `.sh`
+
+```bashdb
+#!/bin/bash
+echo "Hello, World!"
+```
+
+## 13. Blue
 **Extensão:** `.blue`  
 ```blue
 begin
