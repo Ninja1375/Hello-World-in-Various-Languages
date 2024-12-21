@@ -124,6 +124,14 @@ PROC main()
 ENDPROC
 ```
 
+## AssemblyScript
+
+```typescript
+export function hello(): void {
+  console.log("Hello, World!");
+}
+```
+
 **Letter B**
 
 ---
