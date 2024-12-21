@@ -125,7 +125,7 @@ ENDPROC
 
 ## 15. AssemblyScript
 **Extensão:** `.ts`
-```assemblyscript`
+```assemblyscript
 export function hello(): void {
   console.log("Hello, World!");
 }
@@ -138,7 +138,7 @@ export function hello(): void {
 draw("Hello, World!");
 ```
 
-## Arduino 
+## 17. Arduino 
 **Extensão:** `.ino`
 ```arduino
 void setup() {
@@ -151,7 +151,8 @@ void loop() {
 }
 ```
 
-**Letter B**
+
+>**Letter B**
 
 ---
 
@@ -238,7 +239,8 @@ begin
 end
 ```
 
-**Letter C**
+
+>**Letter C**
 ---
 
-continua...
+Continua...
