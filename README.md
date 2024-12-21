@@ -97,6 +97,12 @@ public aspect HelloWorldAspect {
 }
 ```
 
+g
+```REPORT zhello_world.
+
+WRITE 'Hello, World!'.
+```
+
 **Letter B**
 
 ---
