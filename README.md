@@ -126,7 +126,7 @@ ENDPROC
 
 ## AssemblyScript
 
-```typescript
+```ts
 export function hello(): void {
   console.log("Hello, World!");
 }
@@ -134,7 +134,7 @@ export function hello(): void {
 
 ## Asymptote 
 
-```asymptote
+```asy
 draw("Hello, World!");
 ```
 
