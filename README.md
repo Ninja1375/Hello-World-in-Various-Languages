@@ -236,7 +236,7 @@ LET start() = VALOF {
 
 **Extensão:** `.sh`
 
-```bashdb
+```bash
 #!/bin/bash
 echo "Hello, World!"
 ```
