@@ -152,10 +152,8 @@ void loop() {
 }
 ```
 
-
->**Letter B**
-
 ---
+>**Letter B**
 
 ## 1. Bash
 **Extensão:** `.sh`  
@@ -240,8 +238,7 @@ begin
 end
 ```
 
-
->**Letter C**
 ---
+>**Letter C**
 
 Continua...
