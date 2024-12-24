@@ -349,4 +349,94 @@ HELLO:
 ---
 >**Letter D**
 
+## 1. D  
+**Extensão:** `.d`  
+```d
+import std.stdio;
+
+void main() {
+    writeln("Hello, World!");
+}
+```
+
+## 2. Dart
+**Extensão:** `.dart`
+```dart
+void main() {
+  print('Hello, World!');
+}
+```
+
+## 3. Delphi
+**Extensão:** `.pas`
+```delphi
+program HelloWorld;
+
+begin
+  Writeln('Hello, World!');
+end.
+```
+
+## 4. Dylan
+**Extensão:** `.dylan`
+```dylan
+begin
+  format-out("Hello, World!~%");
+end;
+```
+
+## 5. Dream Maker
+**Extensão:** `.dm`
+```dm
+mob
+    verb/say_hello()
+        world << "Hello, World!"
+```
+
+## 6. dc
+**Extensão:** `.dc`
+```dc
+[Hello, World!]p
+```
+
+## 7. Dog
+**Extensão:** `.dog`
+```dog
+print "Hello, World!"
+```
+
+## 8. Draco
+**Extensão:** `.draco`
+```draco
+module HelloWorld;
+
+export HelloWorld;
+
+implement HelloWorld;
+    write("Hello, World!")
+end HelloWorld.
+```
+
+## 9. DCL
+**Extensão:** `.com` (scripts de comandos no VMS)
+```dcl
+$ WRITE SYS$OUTPUT "Hello, World!"
+```
+
+## 10. Dynamo
+**Extensão:** `.dym`
+```dynamo
+PRINT "Hello, World!"
+```
+## 11. DIBOL
+**Extensão:** `.dibol`
+```dibol
+DISPLAY "Hello, World!"
+```
+
+<br>
+
+---
+>**Letter E**
+
 Continua...
