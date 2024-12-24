@@ -6,6 +6,8 @@ This repository contains examples of the classic **Hello, World!** in different 
 
 ---
 >**Letter A**
+<details>
+  <summary>Clique para ver tudo!</summary>
 
 ## 1. Assembly
 **Extensão:** `.asm`
@@ -151,6 +153,7 @@ void loop() {
   // Nothing to do here
 }
 ```
+</details>
 
 <br>
 
