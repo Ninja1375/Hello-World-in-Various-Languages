@@ -357,6 +357,8 @@ HELLO:
 
 ---
 >**Letter D**
+<details>
+  <summary>Clique para ver tudo!</summary>
 
 ## 1. D  
 **Extensão:** `.d`  
@@ -442,6 +444,7 @@ PRINT "Hello, World!"
 ```dibol
 DISPLAY "Hello, World!"
 ```
+</details>
 
 <br>
 
