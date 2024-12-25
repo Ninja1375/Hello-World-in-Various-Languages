@@ -159,6 +159,8 @@ void loop() {
 
 ---
 >**Letter B**
+<details>
+  <summary>Clique para ver tudo!</summary>
 
 ## 1. Bash
 **Extensão:** `.sh`  
@@ -257,11 +259,14 @@ begin
     put "Hello, World!"
 end
 ```
+</details>
 
 <br>
 
 ---
 >**Letter C**
+<details>
+  <summary>Clique para ver tudo!</summary>
 
 ## 1. C
 **Extensão**: `.c`
@@ -346,6 +351,7 @@ END;
 HELLO: 
     PRINT("Hello, World!")
 ```
+</details>
 
 <br>
 
