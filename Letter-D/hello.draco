@@ -1,0 +1,7 @@
+module HelloWorld;
+
+export HelloWorld;
+
+implement HelloWorld;
+    write("Hello, World!")
+end HelloWorld.
