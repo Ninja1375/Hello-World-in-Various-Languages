@@ -269,7 +269,7 @@ end
   <summary>Clique para ver tudo!</summary>
 
 ## 1. C
-**Extensão**: `.c`
+**Extensão:** `.c`
 ```c
 #include <stdio.h>
 int main() {
@@ -279,7 +279,7 @@ int main() {
 ```
 
 ## 2. C++
-**Extensão**: `.cpp`, `.cc`, `.cxx`, `.h` (para cabeçalhos)
+**Extensão:** `.cpp`, `.cc`, `.cxx`, `.h` (para cabeçalhos)
 ```cpp
 #include <iostream>
 int main() {
@@ -289,7 +289,7 @@ int main() {
 ```
 
 ## 3. C#
-**Extensão**: `.cs`
+**Extensão:** `.cs`
 ```csharp
 using System;
 class Program {
@@ -300,13 +300,13 @@ class Program {
 ```
 
 ## 4. Clojure
-**Extensão**: `.clj`, `.cljs`, `.cljc`
+**Extensão:** `.clj`, `.cljs`, `.cljc`
 ```clojure
 (println "Hello, World!")
 ```
 
 ## 5. COBOL
-**Extensão**: `.cbl`, `.cob`, `.cpy` (para cópias)
+**Extensão:** `.cbl`, `.cob`, `.cpy` (para cópias)
 ```cobol
 IDENTIFICATION DIVISION.
 PROGRAM-ID. HelloWorld.
@@ -316,7 +316,7 @@ PROCEDURE DIVISION.
 ```
 
 ## 6. ColdFusion
-**Extensão**: `.cfm`, `.cfc`
+**Extensão:** `.cfm`, `.cfc`
 ```cfml
 <cfoutput>
 Hello, World!
@@ -324,13 +324,13 @@ Hello, World!
 ```
 
 ## 7. Crystal
-**Extensão**: `.cr`
+**Extensão:** `.cr`
 ```crystal
 puts "Hello, World!"
 ```
 
 ## 8. CHILL
-**Extensão**: `.ch` ou `.chl`
+**Extensão:** `.ch` ou `.chl`
 ```chill
 BEGIN
     WRITE("Hello, World!");
@@ -338,7 +338,7 @@ END;
 ```
 
 ## 9. Common Lisp
-**Extensão**: `.lisp`, `.cl`, `.lsp`
+**Extensão:** `.lisp`, `.cl`, `.lsp`
 ```lisp
 (format t "Hello, World!~%")
 ```
@@ -346,24 +346,29 @@ END;
 ---
 
 ## 10. CPL (Combined Programming Language)
-**Extensão**: `.cpl` ou `.cplang`
+**Extensão:** `.cpl` ou `.cplang`
 ```cpl
 HELLO: 
     PRINT("Hello, World!")
 ```
 ## 11. Ceylon 
-**Extensão** `.ceylon`
+**Extensão:** `.ceylon`
 ```ceylon
 shared void run() {
     print("Hello, World!");
 }
 ```
 ## 12. CoffeeScript
-**Extensão** `.coffee`
+**Extensão:** `.coffee`
 ```coffeescript
 console.log "Hello, World!"
 ```
-
+## 13. Cython 
+**Extensão:** `.pyx`
+```cython
+def hello():
+    print("Hello, World!")
+```
 </details>
 
 <br>
