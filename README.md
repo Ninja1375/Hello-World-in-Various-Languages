@@ -358,6 +358,11 @@ shared void run() {
     print("Hello, World!");
 }
 ```
+## 12. CoffeeScript
+**Extensão** `.coffee`
+```coffeescript
+console.log "Hello, World!"
+```
 
 </details>
 
